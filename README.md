@@ -20,6 +20,7 @@
 ## 3. 시스템 실행 환경
 
 -   **플랫폼**: Google Colab
+-   **구글 공유링크**: https://drive.google.com/file/d/1E203Y2vpXoIlweAnJeNkVIPWZHV7K3Nb/view?usp=sharing
 -   **프로그래밍 언어**: Python 3
 -   **주요 라이브러리**:
     -   `ultralytics`
